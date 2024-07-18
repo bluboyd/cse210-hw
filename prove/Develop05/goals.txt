@@ -1,0 +1,3 @@
+0
+eternal|pray three times daily|False
+simple|excercise for 30 minutes daily|False
