@@ -1,6 +1,5 @@
 using System;
-using System.Dynamic;
-using System.Runtime.Loader;
+
 public class Customer
 {
     private string _name;
